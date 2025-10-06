@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('Te amo mi pequeña jan').split('')
+    const titles = ('Te amo Feliz 10 Meses').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
